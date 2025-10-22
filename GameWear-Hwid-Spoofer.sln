@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E3245952-AB7C-49CF-81CE-4F52F60F687B}") = "Spoofer", "Spoofer\GameWear-Hwid-Spoofer.vcxproj", "{54EF4255-DD25-4858-B90C-721B31D8E17B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Debug|x64.ActiveCfg = Debug|x64
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Debug|x64.Build.0 = Debug|x64
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Debug|x86.ActiveCfg = Debug|Win32
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Debug|x86.Build.0 = Debug|Win32
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Release|x64.ActiveCfg = Release|x64
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Release|x64.Build.0 = Release|x64
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Release|x86.ActiveCfg = Release|Win32
+		{54EF4255-DD25-4858-B90C-721B31D8E17B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7C15DD-23D9-4295-8BA7-53087AD1A939}
+	EndGlobalSection
+EndGlobal
